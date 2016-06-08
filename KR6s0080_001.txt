@@ -1,25 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:44.484478
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:36
 #+TITLE: 波斯教殘經
 #+PROPERTY: CBETA_ID T54n2141B
 #+PROPERTY: ID KR6s0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2141B
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0080_T_000-1281a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0080_T_001-1281a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2141B¶
-
- 波斯教殘經(敦煌莫高窟藏本今歸京師圖書館　佚籍叢殘十五)¶
+No. 2141B¶
+波斯教殘經(敦煌莫高窟藏本今歸京師圖書館　佚籍叢殘十五)¶
 ¶
 
 (殘寫經一卷前半已缺佚後半完好然無後題吾友臨川李¶
 君證剛翊灼以其中專闡明明暗之旨證以景教三威蒙度¶
-讚有合處遂定為景教經典然考大祆摩尼與景教頗類似¶
+讚有合處遂定為景教經典然考大祅摩尼與景教頗類似¶
 未易分別且皆由波斯流入中土故姑顏之曰波斯教經以¶
 俟當世之宗教學者考證焉宣統三年三月上虞羅振玉記)。¶
 
